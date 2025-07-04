@@ -1,14 +1,2 @@
 
 /* Your CSS Code here. */
-body {
-    font-family: Arial, sans-serif;
-}
-
-a {
-    text-decoration: none;
-    color: blue;
-}
-
-a:hover {
-    color: red;
-}
